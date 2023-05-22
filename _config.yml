@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Melissa G. Jaramillo Torres
-title: Marine Renewable Energies Engineer
+title: Marine Renewable Energy Engineer
 email: mgjat@ier.unam.mx
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
@@ -50,7 +50,8 @@ googlescholar_username: ZUCbjOsAAAAJ
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: ![alt text](/images/profile.jpg)
+about_profile_image: 
+![alt text](/images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
    As a graduate student in the ERASMUS+ Master in Renewable Energy in the Marine Environment programme, I am currently completing an internship focusing on numerical simulations, mainly using the OrcaFlex model. My work involves optimising the performance of Floating Offshore Wind Turbines (FOWTs) coupled with Oscillating Water Columns (OWCs) and analysing the hydrodynamics under varying sea states. Previously, I gained valuable experience as a research assistant specialising in ADCP data processing and numerical simulations using the DELFT3D model. This work involved analysing the impact of Wave Energy Converters (WECs) on the wave field. I hold an MSc in Physical Oceanography, where I carried out numerical simulations using the SWAN model to investigate the effects of WECs on the spectra of directional waves. With my expertise in numerical simulation and passion for marine renewable energy, I am actively seeking opportunities to drive innovation in the engineering field.
  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -60,14 +61,14 @@ about_content: | # this will include new lines to allow paragraphs
     #- Images ![alt text](/images/AmplitudBeamTime.jgp "Trees")
 
 content:
-  - title: ADCP data processing 
+  - title: Projects
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
   
-        title: Project name
+        title: ADCP data processing 
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -81,6 +82,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+          
           ![alt text](/images/AmplitudBeam5.jpg "ADCP")
   - title: Experience
     layout: list
