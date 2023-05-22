@@ -81,7 +81,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-          ![alt text](/images/AmplitudBeam5.jpg.jpg "ADCP")
+          ![alt text](/images/AmplitudBeam5.jpg "ADCP")
   - title: Experience
     layout: list
     content:
