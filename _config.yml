@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   #  - Lists
    # - Tables
     #- <a href="google.com">Links</a>
-    #- Images ![alt text](/images/AmplitudBeamTime.jgp "Trees" width="200" height="200")
+    #- Images ![alt text](/images/AmplitudBeamTime.jgp "Trees" width="100" height="100")
 
 content:
   - title: Projects
