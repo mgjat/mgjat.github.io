@@ -50,8 +50,7 @@ googlescholar_username: ZUCbjOsAAAAJ
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: 
-<img src="/images/profile.jpg" width="150" height="160">
+about_profile_image: <img src="/images/profile.jpg" width="150" height="160">
 about_content: | # this will include new lines to allow paragraphs
    As a graduate student in the ERASMUS+ Master in Renewable Energy in the Marine Environment programme, I am currently completing an internship focusing on numerical simulations, mainly using the OrcaFlex model. My work involves optimising the performance of Floating Offshore Wind Turbines (FOWTs) coupled with Oscillating Water Columns (OWCs) and analysing the hydrodynamics under varying sea states. Previously, I gained valuable experience as a research assistant specialising in ADCP data processing and numerical simulations using the DELFT3D model. This work involved analysing the impact of Wave Energy Converters (WECs) on the wave field. I hold an MSc in Physical Oceanography, where I carried out numerical simulations using the SWAN model to investigate the effects of WECs on the spectra of directional waves. With my expertise in numerical simulation and passion for marine renewable energy, I am actively seeking opportunities to drive innovation in the engineering field.
  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
